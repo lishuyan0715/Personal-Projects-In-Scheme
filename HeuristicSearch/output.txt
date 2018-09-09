@@ -1,0 +1,7 @@
+Script started on Mon 12 Feb 2018 04:19:03 PM CST
+$  mzscheme -l lang/plt-pretty-big-text.ss -f driver.scm
+7 success(es) 0 failure(s) 0 error(s) 7 test(s) run
+$ exit
+exit
+
+Script done on Mon 12 Feb 2018 04:19:19 PM CST

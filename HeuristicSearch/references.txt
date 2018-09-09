@@ -1,0 +1,29 @@
+ Lab 3: Heuristic Search
+ CSC 261
+
+ File
+   references.txt
+
+ Summary
+   A collection of all references used to solve CSC-261-Lab 3: Heuristic Search
+
+References:
+  Written/online sources used:
+
+Artificial Intelligence: A Modern Approach (Third Edition), Russel & Nordvig. Chapter 4.
+
+CSC-261 Lab 3: Heuristic Search
+
+CSC-261 Lab: Heuristic Search (preparatory lab)
+
+Starter code for uniform-cost-search in search.scm provided by Jerod Weinman
+
+Code for jump problem used to test search algorithms in driver.scm provided by Jerod Weinman 
+
+  Help obtained:
+    None
+Academic honesty certification:
+  Our initials below confirm that the above list of sources
+  is complete AND that I/we have not talked to anyone else
+  (e.g., CSC 261 students) about the solution to this problem
+  Initials: SL, JL
