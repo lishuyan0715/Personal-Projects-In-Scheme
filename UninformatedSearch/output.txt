@@ -1,0 +1,15 @@
+Script started on Mon 29 Jan 2018 09:20:55 PM CST
+ $ma[Kzscheme -1[K[K[K[K[K[K[K[K[K[K[Kmzscheme -l lang/plt-pretty-big-text.ss -f driver.scm[1P.scm[1P.scm[1P.scm[1P.scm[1P.scm[1P.scmtest-polynomial..scm[1Pscm[C[C[C[C
+3 success(es) 0 failure(s) 0 error(s) 3 test(s) run
+3 success(es) 0 failure(s) 0 error(s) 3 test(s) run
+3 success(es) 0 failure(s) 0 error(s) 3 test(s) run
+4 success(es) 0 failure(s) 0 error(s) 4 test(s) run
+5 success(es) 0 failure(s) 0 error(s) 5 test(s) run
+3 success(es) 0 failure(s) 0 error(s) 3 test(s) run
+3 success(es) 0 failure(s) 0 error(s) 3 test(s) run
+4 success(es) 0 failure(s) 0 error(s) 4 test(s) run
+3 success(es) 0 failure(s) 0 error(s) 3 test(s) run
+ $exit
+exit
+
+Script done on Mon 29 Jan 2018 09:21:59 PM CST

@@ -1,0 +1,33 @@
+ Lab: Uninformed Search
+ CSC 261
+
+ File
+   references.txt
+
+ Summary
+   A collection of all references used to solve CSC-261-Lab 2: Uninformed Search
+
+References:
+  Written/online sources used:
+
+Artificial Intelligence: A Modern Approach (Third Edition), Russel & Nordvig. Chapter 3.
+
+CSC-261 Lab 2: Uninformed Search
+
+CSC-261 Lab: Uninformed Search (preparatory lab)
+
+https://docs.racket-lang.org/reference/if.html (conditionals in scheme)
+
+ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_43.html (append function in scheme)
+
+Starter code for depth-first-search & uniform-cost-search in search.scm provided by Jerod Weinman
+
+Code for jump problem used to test search algorithms in driver.scm provided by Jerod Weinman 
+
+  Help obtained:
+    Professor Weinman consulted on search procedure during office hours
+Academic honesty certification:
+  Our initials below confirm that the above list of sources
+  is complete AND that I/we have not talked to anyone else
+  (e.g., CSC 261 students) about the solution to this problem
+  Initials:  EA, SL
